@@ -140,15 +140,6 @@ repos       : Mostly private — but the stack is very real
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF87,100:0D1117&height=2" />
 
-## ⏱️ WakaTime Stats
-
-<p align="center">
-  <a href="https://wakatime.com/@VANIX21">
-    <img src="https://wakatime.com/badge/user/VANIX21.svg?style=for-the-badge" alt="Total time coded" />
-  </a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF87,100:0D1117&height=2" />
 
 ## 📊 Activity Graph
 
@@ -158,13 +149,6 @@ repos       : Mostly private — but the stack is very real
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF87,100:0D1117&height=2" />
 
-## 🌐 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VANIX21/VANIX21/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF87,100:0D1117&height=2" />
 
 ## 🐍 Contribution Snake
 
