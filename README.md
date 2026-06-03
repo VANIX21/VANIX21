@@ -1,4 +1,4 @@
-﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:512BD4&height=220&section=header&text=Hey,%20I'm%20Z%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Backend%20Specialist&descAlignY=60&descSize=22&animation=twinkling" />
+﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:512BD4&height=220&section=header&text=Hey,%20I'm%20VANIX%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Backend%20Specialist&descAlignY=60&descSize=22&animation=twinkling" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=PHP+Laravel+%7C+C%23+ASP.NET+Core+%7C+Blazor;REST+APIs+%7C+Payment+Integrations+%7C+Dashboards;Redis+%7C+MSSQL+%7C+PostgreSQL+%7C+MySQL;Clean+Architecture+%7C+Real+Enterprise+Solutions" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 <br/>
 
 ---
-
+Z
 ## 🛠️ Tech Stack
 
 ### ⚙️ Backend
