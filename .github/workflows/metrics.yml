@@ -21,4 +21,4 @@ jobs:
           config_timezone: Asia/Yerevan
           filename: metrics.svg
           output_action: commit
-          committer_branch: master
+          committer_branch: main
