@@ -165,7 +165,7 @@ repos       : Mostly private — but the stack is very real
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:vegauser777@gmail.com">
+  <a href="mailto:vegauser96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
